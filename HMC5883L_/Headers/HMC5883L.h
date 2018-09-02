@@ -21,7 +21,6 @@
 #define HMC5883L_EXTENED_CALIB_PROCEDURE	0x00	//	0x00 = disabled (calibration parameters are included in data), 
 													//	0x01 = enabled (calibration parameters are NOT included in data) 
 #define HMC5883L_ENABLE_MORE_INSTANCES		0x00
-#define CRACOW_DECLINATION_ANGLE			5.18F	// For 20.06.2018 Magnetic declination: +5° 18' 
 
 //--------------------------------------------------------------------
 //-- HMC5883L DEBUG DEFINES
